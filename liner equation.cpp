@@ -1,4 +1,5 @@
 #include<iostream>
+//Anushka 
 using namespace std;
 int main() {
 	double a1,b1,c1,a2,b2,c2;
@@ -15,4 +16,5 @@ int main() {
 		cout << "Solution : x= " << x<<",y=" << y << endl;
 	}
 	return 0;
+
 }
