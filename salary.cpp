@@ -1,5 +1,5 @@
+//This code is developed by Anushka
 #include<iostream>
-//Pahi
 using namespace std;
 int main () {
 	double basic, hra, da, allowances;
@@ -16,3 +16,4 @@ int main () {
 	 return 0;
 
 }
+
