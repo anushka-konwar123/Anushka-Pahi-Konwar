@@ -1,3 +1,4 @@
+//This code is developed by Anushka
 #include <iostream>
 #include <iomanip> // For setting decimal precision
 #include <cctype>  // For tolower() function
@@ -38,3 +39,4 @@ int main() {
 
     return 0;
 }
+
