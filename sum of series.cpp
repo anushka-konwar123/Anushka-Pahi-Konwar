@@ -1,3 +1,4 @@
+//This code is developed by Anushka
 #include <iostream>
 using namespace std;
 int main() {
@@ -10,4 +11,5 @@ int main() {
 	}
 	cout << " Sum of series = "<< sum << endl;
 	return 0;
+
 }
