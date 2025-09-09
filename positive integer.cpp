@@ -1,3 +1,4 @@
+//This code is developed by Anushka
 #include<iostream>
 //Anushka
 using namespace std;
@@ -19,3 +20,4 @@ int main () {
 	return 0;
 
 }
+
