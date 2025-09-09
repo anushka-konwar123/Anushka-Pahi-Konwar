@@ -1,4 +1,5 @@
 #include<iostream>
+//Pahi
 using namespace std;
 int main () {
 	double basic, hra, da, allowances;
@@ -13,4 +14,5 @@ int main () {
 	 double totalsalary = basic + hra +da + allowances;
 	 cout << "Total salary = " << totalsalary << endl;
 	 return 0;
+
 }
