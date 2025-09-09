@@ -1,4 +1,5 @@
 #include<iostream>
+//Anushka
 using namespace std;
 int main () {
 	int n;
@@ -16,4 +17,5 @@ int main () {
 	}
 	cout<<"Sum of digits of" << n<< "=" << sum <<endl;
 	return 0;
+
 }
