@@ -1,3 +1,4 @@
+//This code is developed by Anushka
 #include <iostream>
 #include <cmath> // for sqrt() function
 using namespace std;
@@ -17,4 +18,5 @@ int main() {
     cout << "The area of the triangle is: " << area << endl;
 
     return 0;
+
 }
